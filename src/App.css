@@ -1,0 +1,39 @@
+.nav-style{
+  background-color: rgb(198, 173, 143);
+}
+
+.nav-flex{
+  display: flex;
+  justify-content: flex-end;
+/* width: 100%; */
+}
+
+.nav-brand{
+font-weight: 600;
+font-size: 1.3rem;
+margin-left: 10px;
+}
+
+.nav-logo-name{
+  display: flex;
+  align-items: flex-end;
+}
+
+
+.carosoul-img{
+  height: 480px;
+  width: 100%;
+}
+
+.home-section-info{
+  height: 170px;
+}
+
+.marquee-homescreen{
+  /* background-color: antiquewhite; */
+  padding: 10px 0;
+}
+
+th,td,tr{
+  text-align: center;
+}
